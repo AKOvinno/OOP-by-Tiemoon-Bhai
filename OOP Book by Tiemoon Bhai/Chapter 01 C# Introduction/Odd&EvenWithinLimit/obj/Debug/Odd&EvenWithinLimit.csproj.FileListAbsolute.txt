@@ -1,0 +1,10 @@
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\obj\Debug\Odd&EvenWithinLimit.csproj.AssemblyReference.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\obj\Debug\Odd_EvenWithinLimit.Form1.resources
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\obj\Debug\Odd_EvenWithinLimit.Properties.Resources.resources
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\obj\Debug\Odd&EvenWithinLimit.csproj.GenerateResource.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\obj\Debug\Odd&EvenWithinLimit.csproj.CoreCompileInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\bin\Debug\Odd&EvenWithinLimit.exe.config
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\bin\Debug\Odd&EvenWithinLimit.exe
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\bin\Debug\Odd&EvenWithinLimit.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\obj\Debug\Odd&EvenWithinLimit.exe
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&EvenWithinLimit\obj\Debug\Odd&EvenWithinLimit.pdb

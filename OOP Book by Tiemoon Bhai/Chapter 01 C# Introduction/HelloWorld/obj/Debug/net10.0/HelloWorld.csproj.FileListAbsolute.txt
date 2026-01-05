@@ -1,0 +1,15 @@
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

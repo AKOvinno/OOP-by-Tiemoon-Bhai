@@ -1,0 +1,15 @@
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\bin\Debug\net10.0\MethodWithMainMethod.exe
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\bin\Debug\net10.0\MethodWithMainMethod.deps.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\bin\Debug\net10.0\MethodWithMainMethod.runtimeconfig.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\bin\Debug\net10.0\MethodWithMainMethod.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\bin\Debug\net10.0\MethodWithMainMethod.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.AssemblyInfoInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.AssemblyInfo.cs
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.csproj.CoreCompileInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.sourcelink.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\refint\MethodWithMainMethod.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\MethodWithMainMethod.genruntimeconfig.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\MethodWithMainMethod\obj\Debug\net10.0\ref\MethodWithMainMethod.dll

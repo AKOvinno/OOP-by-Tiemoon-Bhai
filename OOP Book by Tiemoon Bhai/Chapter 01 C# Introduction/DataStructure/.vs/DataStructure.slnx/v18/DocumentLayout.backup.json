@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Zone\\OOP C Sharp by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 01 C# Introduction\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C56D788-0CCA-4F6D-8B6E-21435B3C1B2F}|DataStructure.csproj|d:\\study zone\\oop c sharp by tiemoon bhai\\oop book by tiemoon bhai\\chapter 01 c# introduction\\datastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C56D788-0CCA-4F6D-8B6E-21435B3C1B2F}|DataStructure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Zone\\OOP C Sharp by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 01 C# Introduction\\DataStructure\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study Zone\\OOP C Sharp by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 01 C# Introduction\\DataStructure\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:38:16.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

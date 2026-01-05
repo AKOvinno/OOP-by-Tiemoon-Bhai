@@ -1,0 +1,15 @@
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\bin\Debug\net10.0\Odd&Even.exe
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\bin\Debug\net10.0\Odd&Even.deps.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\bin\Debug\net10.0\Odd&Even.runtimeconfig.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\bin\Debug\net10.0\Odd&Even.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\bin\Debug\net10.0\Odd&Even.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.AssemblyInfoInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.AssemblyInfo.cs
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.csproj.CoreCompileInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.sourcelink.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\refint\Odd&Even.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\Odd&Even.genruntimeconfig.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\Odd&Even\obj\Debug\net10.0\ref\Odd&Even.dll

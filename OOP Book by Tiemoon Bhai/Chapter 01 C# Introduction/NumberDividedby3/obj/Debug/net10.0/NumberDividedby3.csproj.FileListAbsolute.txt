@@ -1,0 +1,15 @@
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\bin\Debug\net10.0\NumberDividedby3.exe
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\bin\Debug\net10.0\NumberDividedby3.deps.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\bin\Debug\net10.0\NumberDividedby3.runtimeconfig.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\bin\Debug\net10.0\NumberDividedby3.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\bin\Debug\net10.0\NumberDividedby3.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.AssemblyInfoInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.AssemblyInfo.cs
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.csproj.CoreCompileInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.sourcelink.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\refint\NumberDividedby3.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\NumberDividedby3.genruntimeconfig.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\NumberDividedby3\obj\Debug\net10.0\ref\NumberDividedby3.dll

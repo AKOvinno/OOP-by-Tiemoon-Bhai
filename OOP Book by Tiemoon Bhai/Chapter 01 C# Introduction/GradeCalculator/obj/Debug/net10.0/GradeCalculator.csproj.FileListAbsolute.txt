@@ -1,0 +1,15 @@
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\bin\Debug\net10.0\GradeCalculator.exe
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\bin\Debug\net10.0\GradeCalculator.deps.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\bin\Debug\net10.0\GradeCalculator.runtimeconfig.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\bin\Debug\net10.0\GradeCalculator.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\bin\Debug\net10.0\GradeCalculator.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.AssemblyInfoInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.AssemblyInfo.cs
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.csproj.CoreCompileInputs.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.sourcelink.json
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\refint\GradeCalculator.dll
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.pdb
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\GradeCalculator.genruntimeconfig.cache
+D:\Study Zone\OOP C Sharp by Tiemoon Bhai\OOP Book by Tiemoon Bhai\Chapter 01 C# Introduction\GradeCalculator\obj\Debug\net10.0\ref\GradeCalculator.dll
