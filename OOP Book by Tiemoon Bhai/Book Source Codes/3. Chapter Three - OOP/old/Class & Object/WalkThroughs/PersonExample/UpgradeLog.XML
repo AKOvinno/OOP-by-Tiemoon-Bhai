@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OOPWalkThrough1">
+</Property><Property Name="Solution File" Value="D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\OOPWalkThrough1.sln">
+</Property><Property Name="User Options File" Value="D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\OOPWalkThrough1.suo">
+</Property><Property Name="Date" Value="Friday, June 08, 2012">
+</Property><Property Name="Time" Value="14:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OOPWalkThrough1.sln" Description="File successfully backed up as D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\Backup\OOPWalkThrough1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="OOPWalkThrough1.suo" Description="File successfully backed up as D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\Backup\OOPWalkThrough1.suo">
+</Event><Event ErrorLevel="0" Project="OOPWalkThrough1" Source="OOPWalkThrough1\OOPWalkThrough1.csproj" Description="Project file successfully backed up as D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\Backup\OOPWalkThrough1\OOPWalkThrough1.csproj">
+</Event><Event ErrorLevel="0" Project="OOPWalkThrough1" Source="OOPWalkThrough1\EntryPoint.cs" Description="File successfully backed up as D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\Backup\OOPWalkThrough1\EntryPoint.cs">
+</Event><Event ErrorLevel="0" Project="OOPWalkThrough1" Source="OOPWalkThrough1\Person.cs" Description="File successfully backed up as D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\Backup\OOPWalkThrough1\Person.cs">
+</Event><Event ErrorLevel="0" Project="OOPWalkThrough1" Source="OOPWalkThrough1\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\OOP Training (.Net) @ BASIS\Course Content\4. OOP\4.1 Basic Concept\Examples &amp; WalkThroughs\OOPWalkThrough1\Backup\OOPWalkThrough1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="OOPWalkThrough1" Source="OOPWalkThrough1\OOPWalkThrough1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OOPWalkThrough1" Source="OOPWalkThrough1\OOPWalkThrough1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OOPWalkThrough1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="OOPWalkThrough1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OOPWalkThrough1" Source="OOPWalkThrough1\OOPWalkThrough1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
