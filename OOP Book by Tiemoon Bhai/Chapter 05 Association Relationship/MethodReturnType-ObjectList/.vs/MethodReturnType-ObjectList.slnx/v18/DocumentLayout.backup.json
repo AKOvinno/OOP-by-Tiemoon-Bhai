@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Zone\\OOP by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 05 Association Relationship\\MethodReturnType-ObjectList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613CD8D8-43CF-46EF-B2BE-9F3D245A6B91}|MethodReturnType-ObjectList.csproj|d:\\study zone\\oop by tiemoon bhai\\oop book by tiemoon bhai\\chapter 05 association relationship\\methodreturntype-objectlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613CD8D8-43CF-46EF-B2BE-9F3D245A6B91}|MethodReturnType-ObjectList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613CD8D8-43CF-46EF-B2BE-9F3D245A6B91}|MethodReturnType-ObjectList.csproj|d:\\study zone\\oop by tiemoon bhai\\oop book by tiemoon bhai\\chapter 05 association relationship\\methodreturntype-objectlist\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613CD8D8-43CF-46EF-B2BE-9F3D245A6B91}|MethodReturnType-ObjectList.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Study Zone\\OOP by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 05 Association Relationship\\MethodReturnType-ObjectList\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Study Zone\\OOP by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 05 Association Relationship\\MethodReturnType-ObjectList\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T04:31:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Zone\\OOP by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 05 Association Relationship\\MethodReturnType-ObjectList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study Zone\\OOP by Tiemoon Bhai\\OOP Book by Tiemoon Bhai\\Chapter 05 Association Relationship\\MethodReturnType-ObjectList\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T04:31:08.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
